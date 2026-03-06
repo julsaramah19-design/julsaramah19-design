@@ -4,7 +4,6 @@
   🇨🇴 Colombia &nbsp;|&nbsp; 🌎 Open to remote opportunities
 </p>
 
-🇺🇸 About Me
 Backend developer with 4+ years of experience building enterprise-grade systems. I specialize in designing and maintaining robust backend solutions — currently focused on electronic invoicing systems, RESTful API integration, and relational database optimization.
 I don't just write code — I think about why systems are designed the way they are, and I care deeply about scalability, maintainability, and clean architecture.
 
